@@ -19,8 +19,16 @@ Power BI dashboards integrating Microsoft Navision ERP, Enaio DMS, and Microsoft
 
 ### Research
 
-- **Published:** "Long-term care of polytraumatized patients, requirements for rehabilitation management" — *Die Unfallchirurgie*, October 2025
-- **Under review (corresponding author):** "Effectiveness of Telephone-Based Treatment Accompaniment in Musculoskeletal Rehabilitation: A Paired Longitudinal Analysis Using ICUC Scores" — *Das Gesundheitswesen*, 2026 · 408 patients · FL-Score −56% (Cohen's d = 1.37; p < 0.001) · P-Score −49% (d = 0.98; p < 0.001)
+5 publications in rehabilitation and clinical data science — 1 published, 4 under peer review.
+
+**Published**
+- "Long-term care of polytraumatized patients, requirements for rehabilitation management" — *Die Unfallchirurgie*, Oct 2025
+
+**Under peer review**
+- "Detecting disorders early in the healing process: Telephone support during the healing process using the ICUC score" — *BMC Health Services Research*
+- "Effectiveness of Telephone-Based Health Visits in Musculoskeletal Rehabilitation" — *Das Gesundheitswesen* *(corresponding author)*
+- "Langzeitbetreuung polytraumatisierter Patienten — Teil 2" — *Die Unfallchirurgie*
+- "Pflegeberatung – Stärken und Schwächen" — *Zeitschrift für Gerontologie und Geriatrie*
 
 ---
 
