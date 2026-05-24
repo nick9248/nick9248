@@ -19,7 +19,8 @@ Power BI dashboards integrating Microsoft Navision ERP, Enaio DMS, and Microsoft
 
 ### Research
 
-3 peer-reviewed publications on rehabilitation analytics and clinical data science. Corresponding author on 1.
+- **Published:** "Long-term care of polytraumatized patients, requirements for rehabilitation management" — *Die Unfallchirurgie*, October 2025
+- **Under review (corresponding author):** "Effectiveness of Telephone-Based Treatment Accompaniment in Musculoskeletal Rehabilitation: A Paired Longitudinal Analysis Using ICUC Scores" — *Das Gesundheitswesen*, 2026 · 408 patients · FL-Score −56% (Cohen's d = 1.37; p < 0.001) · P-Score −49% (d = 0.98; p < 0.001)
 
 ---
 
