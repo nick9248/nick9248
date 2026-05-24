@@ -30,5 +30,6 @@ Power BI dashboards integrating Microsoft Navision ERP, Enaio DMS, and Microsoft
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nick_Ashouri-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nick-ashouri-768041177)
+[![Website](https://img.shields.io/badge/ashouri.me-Website-0A66C2?style=flat)](https://www.ashouri.me)
 
 📍 Arnsberg, Germany · Open to AI Engineering roles in **DE · NL · CH · US**
